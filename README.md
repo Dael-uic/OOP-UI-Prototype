@@ -1,2 +1,1 @@
-# OOP-UI-Prototype
-For Academic purposes only
+# RefurbE-Mart-A-Web-Based-Commerce-Platform-for-Refurbished-Electronics
